@@ -11,5 +11,5 @@ void main()
         rev=(rev*10)+rem;
         n=n/10;
     }
-    printf("Reverse of enter number is %d",rev);
+    printf("Reverse of entered number is %d",rev);
 }
